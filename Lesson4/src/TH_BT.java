@@ -52,7 +52,7 @@ public class TH_BT {
                     break;
 
                 case 0:
-                    System.out.println("chao tac man hinh");
+                    System.out.println("Thoat chuong trinh");
                     break;
                 default:
                     System.out.println("chuc nang khong ton tai");
