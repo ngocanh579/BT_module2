@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class BT_TH_vongLap {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
-        Bai_tap_TH menu = new Bai_tap_TH(); // tạo đối tượng
+        BT_TH_vongLap menu = new BT_TH_vongLap(); // tạo đối tượng
         int chucNang;
         do {
             System.out.println("==========Menu Chính ========");
@@ -72,7 +72,7 @@ public class BT_TH_vongLap {
             else System.out.println(n + " khong phai la so nguyen to");
         }
     }
-    public void bai2(){
+    public static void bai2(){
         System.out.print(" So luong tien cho vay: ");
         double soLuongTien = sc.nextDouble();
         System.out.print(" So thang cho vay : ");

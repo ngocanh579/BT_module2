@@ -1,0 +1,30 @@
++----------------------+
+|       Circle         |
++----------------------+
+| - radius: double     |
+| - color: String      |
+| - filled: boolean    |
++----------------------+
+| + Circle()           |
+| + Circle(radius:double)             |
+| + Circle(radius:double, color:String, filled:boolean) |
+| + getRadius(): double |
+| + getColor(): String |
+| + isFilled(): boolean |
+| + toString(): String |
++----------------------+
+
+            ▲
+            │
+            │
++-------------------------------+
+|     ComparableCircle          |
++-------------------------------+
+|                               |
++-------------------------------+
+| + ComparableCircle()          |
+| + ComparableCircle(radius:double) |
+| + ComparableCircle(radius:double, color:String, filled:boolean) |
+| + compareTo(o: ComparableCircle): int |
++-------------------------------+
+<<implements Comparable<ComparableCircle>>>

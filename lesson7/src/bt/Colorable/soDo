@@ -1,0 +1,22 @@
+<<interface>> Colorable
++ howToColor(): void
+
+<<abstract>> Shape
++ getArea(): double
+
+Square (kế thừa Shape, triển khai Colorable)
+- side: double
++ getArea(): double
++ howToColor(): void
+
+Circle (kế thừa Shape)
+Rectangle (kế thừa Shape)
+
+cấu trúc bài
+bt_Colorable/
+├── Shape.java
+├── Circle.java
+├── Rectangle.java
+├── Square.ja
+├── Colorable.java
+└── ColorableTest.java

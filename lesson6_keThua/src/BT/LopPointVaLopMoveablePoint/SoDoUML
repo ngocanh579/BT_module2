@@ -1,0 +1,36 @@
++--------------------------+
+|         Point            |
++--------------------------+
+| - x: float               |
+| - y: float               |
++--------------------------+
+| +Point()                 |
+| +Point(x: float, y: float) |
+| +getX(): float           |
+| +setX(x: float): void    |
+| +getY(): float           |
+| +setY(y: float): void    |
+| +getXY(): float[]        |
+| +setXY(x: float, y: float): void |
+| +toString(): String      |
++--------------------------+
+
+           ▲
+           │
++------------------------------+
+|       MoveablePoint         |
++------------------------------+
+| - xSpeed: float             |
+| - ySpeed: float             |
++------------------------------+
+| +MoveablePoint()            |
+| +MoveablePoint(x: float, y: float, xSpeed: float, ySpeed: float) |
+| +getXSpeed(): float         |
+| +setXSpeed(xSpeed: float): void |
+| +getYSpeed(): float         |
+| +setYSpeed(ySpeed: float): void |
+| +getSpeed(): float[]        |
+| +setSpeed(xSpeed: float, ySpeed: float): void |
+| +move(): MoveablePoint      |
+| +toString(): String         |
++------------------------------+

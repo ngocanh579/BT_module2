@@ -1,0 +1,7 @@
++------------------------------+
+|          Cylinder            |
++------------------------------+
+| +getVolume(int, int): double|
+| -getBaseArea(int): double   |
+| -getPerimeter(int): double  |
++------------------------------+

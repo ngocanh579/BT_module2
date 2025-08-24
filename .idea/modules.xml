@@ -4,10 +4,22 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BT_MD2.iml" filepath="$PROJECT_DIR$/BT_MD2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leson1/Leson1.iml" filepath="$PROJECT_DIR$/Leson1/Leson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson14/Lesson14.iml" filepath="$PROJECT_DIR$/Lesson14/Lesson14.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson4/Lesson4.iml" filepath="$PROJECT_DIR$/Lesson4/Lesson4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson5/Lesson5.iml" filepath="$PROJECT_DIR$/Lesson5/Lesson5.iml" />
       <module fileurl="file://$PROJECT_DIR$/leson2/leson2.iml" filepath="$PROJECT_DIR$/leson2/leson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson10/lesson10.iml" filepath="$PROJECT_DIR$/lesson10/lesson10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson11/lesson11.iml" filepath="$PROJECT_DIR$/lesson11/lesson11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson12/lesson12.iml" filepath="$PROJECT_DIR$/lesson12/lesson12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson15/lesson15.iml" filepath="$PROJECT_DIR$/lesson15/lesson15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson16/lesson16.iml" filepath="$PROJECT_DIR$/lesson16/lesson16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson17/lesson17.iml" filepath="$PROJECT_DIR$/lesson17/lesson17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson18/lesson18.iml" filepath="$PROJECT_DIR$/lesson18/lesson18.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson3/lesson3.iml" filepath="$PROJECT_DIR$/lesson3/lesson3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson6_keThua/lesson6_keThua.iml" filepath="$PROJECT_DIR$/lesson6_keThua/lesson6_keThua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson7/lesson7.iml" filepath="$PROJECT_DIR$/lesson7/lesson7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson8_CleanCode/lesson8_CleanCode.iml" filepath="$PROJECT_DIR$/lesson8_CleanCode/lesson8_CleanCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson9/lesson9.iml" filepath="$PROJECT_DIR$/lesson9/lesson9.iml" />
     </modules>
   </component>
 </project>

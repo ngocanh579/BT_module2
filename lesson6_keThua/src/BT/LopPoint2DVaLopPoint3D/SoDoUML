@@ -1,0 +1,32 @@
++-------------------------+
+|        Point2D         |
++-------------------------+
+| - x: float              |
+| - y: float              |
++-------------------------+
+| +Point2D()              |
+| +Point2D(x: float, y: float) |
+| +getX(): float          |
+| +setX(x: float): void   |
+| +getY(): float          |
+| +setY(y: float): void   |
+| +getXY(): float[]       |
+| +setXY(x: float, y: float): void |
+| +toString(): String     |
++-------------------------+
+
+           ▲
+           │
++-----------------------------+
+|          Point3D           |
++-----------------------------+
+| - z: float                 |
++-----------------------------+
+| +Point3D()                 |
+| +Point3D(x: float, y: float, z: float) |
+| +getZ(): float             |
+| +setZ(z: float): void      |
+| +getXYZ(): float[]         |
+| +setXYZ(x: float, y: float, z: float): void |
+| +toString(): String        |
++-----------------------------+

@@ -1,0 +1,12 @@
+package TH_Refactoring
+
++-------------------------------+
+|          Calculator           |
++-------------------------------+
+| + ADDITION: char              |
+| + SUBTRACTION: char           |
+| + MULTIPLICATION: char        |
+| + DIVISION: char              |
++-------------------------------+
+| + calculate(int, int, char): int |
++-------------------------------+
